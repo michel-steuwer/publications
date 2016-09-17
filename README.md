@@ -48,3 +48,8 @@
   [**Runtime Code Generation and Data Management for Heterogeneous Computing in Java**](https://github.com/michel-steuwer/publications/blob/master/2015/PPPJ-2015.pdf), in *Proceedings of the [12th International Conference on Principles and Practice of Programming on the Java Platform: Virtual machines, languages, and tools](http://pppj2015.cs.fit.edu/) (PPPJ) 2015*.
 
   [PDF](https://github.com/michel-steuwer/publications/blob/master/2015/PPPJ-2015.pdf), [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2015/PPPJ-2015.bib), [ACM DL](http://doi.acm.org/10.1145/2807426.2807428)
+
+- *Michel Steuwer*:
+  [**Improving Programmability and Performance Portability on Many-Core Processors**](https://github.com/michel-steuwer/publications/blob/master/2015/PhDThesis.pdf); Ph.D. Thesis; University of Münster, Germany; Supervised by [Sergei Gorlatch](http://www.uni-muenster.de/PVS/mitarbeiter/gorlatch.html).
+
+  [PDF](https://github.com/michel-steuwer/publications/blob/master/2015/PhDThesis.pdf), [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2015/PhDThesis.bib)
