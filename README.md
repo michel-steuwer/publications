@@ -69,7 +69,7 @@
 - Michael Olejnik, *Michel Steuwer*, Sergei Gorlatch, and Dominik Heider:
   [**gCUP: rapid GPU-based HIV-1 co-receptor usage prediction for next-generation sequencing**](http://dx.doi.org/10.1093/bioinformatics/btu535), in *[Bioinformatics](http://bioinformatics.oxfordjournals.org/), Volume 30, Number 22, November 2014*.
 
-  [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2014/Bioinformatics-2014.bib), [Paper](http://dx.doi.org/10.1093/bioinformatics/btu535)
+  [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2014/Bioinformatics-2014.bib), [Paper at Oxford Journals](http://dx.doi.org/10.1093/bioinformatics/btu535)
 
 - *Michel Steuwer*, Malte Friese, Sebastian Albers, and Sergei Gorlatch:
   [**Introducing and Implementing the Allpairs Skeleton for Programming Multi-GPU Systems**](https://github.com/michel-steuwer/publications/blob/master/2014/IJPP-2014.pdf), in the *[International Journal of Parallel Programming](http://link.springer.com/journal/10766), Volume 42, Number 4, August 2014*.
@@ -107,3 +107,8 @@
   [**SkelCL: Enhancing OpenCL for High-Level Programming of Multi-GPU Systems**](https://github.com/michel-steuwer/publications/blob/master/2013/PaCT-2013.pdf), in the Proceedings of the *[12th International Conference on Parallel Computing Technologies](http://ssd.sscc.ru/conf/pact2013/) (PaCT) 2013*.
 
   [PDF](https://github.com/michel-steuwer/publications/blob/master/2013/PaCT-2013.pdf), [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2013/PaCT-2013.bib), [Springer](http://dx.doi.org/10.1007/978-3-642-39958-9_24)
+
+- Phlipp Kegel, *Michel Steuwer*, and Sergei Gorlatch:
+  [**dOpenCL: Towards uniform programming of distributed heterogeneous multi-/many-core systems**](http://dx.doi.org/10.1016/j.jpdc.2013.07.021), in the *[Journal of Parallel and Distributed Computing](http://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing/), Volume 73, Number 12, December 2013*.
+
+  [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2013/JPDC-2013.bib), [Paper at Elsevier](http://dx.doi.org/10.1016/j.jpdc.2013.07.021)
