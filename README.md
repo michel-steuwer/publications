@@ -65,3 +65,8 @@
   [**A Composable Array Function Interface for Heterogeneous Computing in Java**](https://github.com/michel-steuwer/publications/blob/master/2014/ARRAY-2014.pdf), in *the [ACM SIGPLAN International Workshop on Libraries, Languages and Compilers for Array Programming](http://www.sable.mcgill.ca/array/2014/index.html) (ARRAY) 2014 @ PLDI*.
 
   [PDF](https://github.com/michel-steuwer/publications/blob/master/2014/ARRAY-2014.pdf), [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2014/ARRAY-2014.bib), [ACM DL](http://doi.acm.org/10.1145/2627373.2627381)
+
+- Michael Olejnik, *Michel Steuwer*, Sergei Gorlatch, and Dominik Heider:
+  [**gCUP: rapid GPU-based HIV-1 co-receptor usage prediction for next-generation sequencing**](http://dx.doi.org/10.1093/bioinformatics/btu535), in *Bioinformatics, Volume 30, Number 22, November 2014*.
+
+  [Paper](http://dx.doi.org/10.1093/bioinformatics/btu535), [BibTex](https://github.com/michel-steuwer/publications/blob/master/2014/Bioinformatics-2014.bib)
