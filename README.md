@@ -75,6 +75,9 @@
 
 - *Michel Steuwer*:
   [**Improving Programmability and Performance Portability on Many-Core Processors**](https://github.com/michel-steuwer/publications/blob/master/2015/PhDThesis.pdf); Ph.D. Thesis; University of Münster, Germany; Supervised by [Sergei Gorlatch](http://www.uni-muenster.de/PVS/mitarbeiter/gorlatch.html).
+  
+  Grade: *Summa Cum Laude*,
+  Nominated for the *prize for best dissertation* awarded by the German Informatics Society.
 
   [PDF](https://github.com/michel-steuwer/publications/blob/master/2015/PhDThesis.pdf),
   [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2015/PhDThesis.bib),
