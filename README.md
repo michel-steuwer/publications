@@ -80,3 +80,8 @@
   [**High-Level Programming of Stencil Computations on Multi-GPU Systems Using the SkelCL Library**](https://github.com/michel-steuwer/publications/blob/master/2014/PPL-2014.pdf), in *[Parallel Processing Letters](http://www.worldscientific.com/worldscinet/ppl) Volume 24, Number 3, September 2014*.
 
   [PDF](https://github.com/michel-steuwer/publications/blob/master/2014/PPL-2014.pdf), [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2014/PPL-2014.bib), [World Scientific](http://dx.doi.org/10.1142/S0129626414410059)
+
+- *Michel Steuwer* and Sergei Gorlatch:
+  [**SkelCL: A high-level extension of OpenCL for multi-GPU systems**](https://github.com/michel-steuwer/publications/blob/master/2014/JoS-2014.pdf), in the *[Journal of Supercomputing](http://www.springer.com/computer/swe/journal/11227), Volume 69, Number 1, July 2014.*.
+
+  [PDF](https://github.com/michel-steuwer/publications/blob/master/2014/JoS-2014.pdf), [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2014/JoS-2014.bib), [Springer](http://dx.doi.org/10.1007/s11227-014-1213-y)
