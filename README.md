@@ -65,7 +65,7 @@
   [ACM DL](http://doi.acm.org/10.1145/2784731.2784754),
   [Google Scholar](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=XdXJRZEAAAAJ&citation_for_view=XdXJRZEAAAAJ:UebtZRa9Y70C)
 
-- Juae José Fumero, Toomas Remmelg, *Michel Steuwer*, and Christophe Dubach:
+- Juan José Fumero, Toomas Remmelg, *Michel Steuwer*, and Christophe Dubach:
   [**Runtime Code Generation and Data Management for Heterogeneous Computing in Java**](https://github.com/michel-steuwer/publications/blob/master/2015/PPPJ-2015.pdf), in *Proceedings of the [12th International Conference on Principles and Practice of Programming on the Java Platform: Virtual machines, languages, and tools](http://pppj2015.cs.fit.edu/) (PPPJ) 2015*.
 
   [PDF](https://github.com/michel-steuwer/publications/blob/master/2015/PPPJ-2015.pdf),
