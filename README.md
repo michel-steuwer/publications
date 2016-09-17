@@ -123,3 +123,8 @@
   [**dOpenCL: Towards a Uniform Programming Approach for Distributed Heterogeneous Multi-/Many-Core Systems**](https://github.com/michel-steuwer/publications/blob/master/2012/HCW-2012.pdf), in the *[21st International Heterogeneity in Computing Workshop](http://hcw.eecs.wsu.edu/previous) (HCW) 2012 @ IPDPS*.
 
   [PDF](https://github.com/michel-steuwer/publications/blob/master/2012/HCW-2012.pdf), [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2012/HCW-2012.bib), [IEEE Xplore](http://dx.doi.org/10.1109/IPDPSW.2012.16)
+
+- *Michel Steuwer*, Philipp Kegel, and Sergei Gorlatch:
+  [**Towards High-Level Programming of Multi-GPU Systems Using the SkelCL Library**](https://github.com/michel-steuwer/publications/blob/master/2012/AsHES-2012.pdf), in the *[Second International Workshop on Accelerators and Hybrid Exasclae Systems](http://www.mcs.anl.gov/events/workshops/ashes/2012/) (AsHES) 2012 @ IPDPS*.
+
+  [PDF](https://github.com/michel-steuwer/publications/blob/master/2012/AsHES-2012.pdf), [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2012/AsHES-2012.bib), [IEEE Xplore](http://dx.doi.org/10.1109/IPDPSW.2012.229)
