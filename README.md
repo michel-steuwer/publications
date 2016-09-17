@@ -133,3 +133,10 @@
   [**A High-Level Programming Approach for Distributed Systems with Accelerators**](http://dx.doi.org/10.3233/978-1-61499-125-0-430), in *Proceedings of the [11th New Trends in Software Methodologies, Tools and Techniques](http://www.somet.soft.iwate-pu.ac.jp/somet_12/) (SoMeT) 2012*.
 
   [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2012/SoMET-2012.bib), [IOS Press](http://dx.doi.org/10.3233/978-1-61499-125-0-430)
+
+## 2011
+
+- *Michel Steuwer*, Philipp Kegel, and Sergei Gorlatch:
+  [**SkelCL - A Portable Skeleton Library for High-Level GPU Programming**](https://github.com/michel-steuwer/publications/blob/master/2011/HIPS-2011.pdf), in the *[16th International Workshop on High-Level Parallel Programming Models and Supportive Environments](http://htor.inf.ethz.ch/hips2011/) (HIPS) 2011 @ IPDPS*.
+
+  [PDF](https://github.com/michel-steuwer/publications/blob/master/2011/HIPS-2011.pdf), [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2011/HIPS-2011.bib), [IEEE Xplore](http://dx.doi.org/10.1109/IPDPS.2011.269)
