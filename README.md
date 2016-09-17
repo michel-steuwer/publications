@@ -95,3 +95,10 @@
   [**Extending the SkelCL Library for Stencil Computations on Multi-GPU Systems**](https://github.com/michel-steuwer/publications/blob/master/2014/HiStencils-2014.pdf), in the *[1st International Workshop on High-Performance Stencil Computations](http://www.exastencils.org/histencils/2014/) (HiStencils) 2014 @ HiPEAC*.
 
   [PDF](https://github.com/michel-steuwer/publications/blob/master/2014/HiStencils-2014.pdf), [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2014/HiStencils-2014.bib)
+
+## 2013
+
+- *Michel Steuwer* and Sergei Gorlatch:
+  [**High-Level Programming for Medical Imaging on Multi-GPU Systems Using the SkelCL Library**](https://github.com/michel-steuwer/publications/blob/master/2013/ICCS-2013.pdf), in the Proceedings of the *[International Conference on Computational Science](http://www.iccs-meeting.org/iccs2013/) (ICCS) 2013*.
+
+  [PDF](https://github.com/michel-steuwer/publications/blob/master/2013/ICCS-2013.pdf), [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2013/ICCS-2013.bib), [Elsevier](http://dx.doi.org/10.1016/j.procs.2013.05.239)
