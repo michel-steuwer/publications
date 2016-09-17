@@ -13,6 +13,11 @@
   [PDF](https://github.com/michel-steuwer/publications/blob/master/2016/GIDIS-2015.pdf), [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2016/GIDIS-2015.bib)
 
 - Toomas Remmelg, Thibaut Lutz, *Michel Steuwer*, and Christophe Dubach:
-  [**Performance Portable GPU Code Generation for Matrix Multiplication**](https://github.com/michel-steuwer/publications/blob/master/2016/GPGPU-2016.pdf), in *the [9th Workshop on General Purpose Processing using GPUs](http://conf.researchr.org/track/PPoPP-2016/GPGPU-2016-papers) (GPGPU) 2016 @ PPoPP*.
+  [**Performance Portable GPU Code Generation for Matrix Multiplication**](https://github.com/michel-steuwer/publications/blob/master/2016/GPGPU-2016-1.pdf), in *the [9th Workshop on General Purpose Processing using GPUs](http://conf.researchr.org/track/PPoPP-2016/GPGPU-2016-papers) (GPGPU) 2016 @ PPoPP*.
 
-  [PDF](https://github.com/michel-steuwer/publications/blob/master/2016/GPGPU-2016.pdf), [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2016/GPGPU-2016.bib)
+  [PDF](https://github.com/michel-steuwer/publications/blob/master/2016/GPGPU-2016-1.pdf), [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2016/GPGPU-2016-1.bib)
+
+- Michael Haidl, *Michel Steuwer*, Tim Humernbrum, and Sergei Gorlatch:
+  [**Multi-Stage Programming for GPUs in Modern C++ using PACXX**](https://github.com/michel-steuwer/publications/blob/master/2016/GPGPU-2016-2.pdf), in *the [9th Workshop on General Purpose Processing using GPUs](http://conf.researchr.org/track/PPoPP-2016/GPGPU-2016-papers) (GPGPU) 2016 @ PPoPP*.
+
+  [PDF](https://github.com/michel-steuwer/publications/blob/master/2016/GPGPU-2016-2.pdf), [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2016/GPGPU-2016-2.bib)
