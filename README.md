@@ -118,3 +118,8 @@
   [**Using the SkelCL Library for High-Level GPU Programming of 2D Applications**](https://github.com/michel-steuwer/publications/blob/master/2012/ParaPhrase-2012.pdf), in the *2nd Open ParaPhrase Worjkshop 2012 @ Euro-Par*.
 
   [PDF](https://github.com/michel-steuwer/publications/blob/master/2012/ParaPhrase-2012.pdf), [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2012/ParaPhrase-2012.bib), [Springer](http://dx.doi.org/10.1007/978-3-642-36949-0_41)
+
+- Philipp Kegel, *Michel Steuwer*, and Sergei Gorlatch:
+  [**dOpenCL: Towards a Uniform Programming Approach for Distributed Heterogeneous Multi-/Many-Core Systems**](https://github.com/michel-steuwer/publications/blob/master/2012/HCW-2012.pdf), in the *[21st International Heterogeneity in Computing Workshop](http://hcw.eecs.wsu.edu/previous) (HCW) 2012 @ IPDPS*.
+
+  [PDF](https://github.com/michel-steuwer/publications/blob/master/2012/HCW-2012.pdf), [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2012/HCW-2012.bib), [IEEE Xplore](http://dx.doi.org/10.1109/IPDPSW.2012.16)
