@@ -140,3 +140,10 @@
   [**SkelCL - A Portable Skeleton Library for High-Level GPU Programming**](https://github.com/michel-steuwer/publications/blob/master/2011/HIPS-2011.pdf), in the *[16th International Workshop on High-Level Parallel Programming Models and Supportive Environments](http://htor.inf.ethz.ch/hips2011/) (HIPS) 2011 @ IPDPS*.
 
   [PDF](https://github.com/michel-steuwer/publications/blob/master/2011/HIPS-2011.pdf), [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2011/HIPS-2011.bib), [IEEE Xplore](http://dx.doi.org/10.1109/IPDPS.2011.269)
+
+## 2010
+
+- *Michel Steuwer*, Philipp Kegel, and Sergei Gorlatch:
+  [**SkelCL - A Portable Multi-GPU Skeleton Library**](https://github.com/michel-steuwer/publications/blob/master/2010/SkelCL-2010.pdf); Technical Report.
+
+  [PDF](https://github.com/michel-steuwer/publications/blob/master/2010/SkelCL-2010.pdf), [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2010/SkelCL-2010.bib)
