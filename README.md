@@ -3,7 +3,7 @@
 ## 2016
 
 - *Michel Steuwer*, Toomas Remmelg, and Christophe Dubach:
-  [**Matrix Multiplication Beyond Auto-Tuning: Rewribe-based GPU Code Generation**](https://github.com/michel-steuwer/publications/blob/master/2016/CASES-2016.pdf), in *Proceedings of the 2016 International Conference on Compilers, Architecture and Synthesis for Embedded Systems* (CASES 2016).
+  [**Matrix Multiplication Beyond Auto-Tuning: Rewrite-based GPU Code Generation**](https://github.com/michel-steuwer/publications/blob/master/2016/CASES-2016.pdf), in *Proceedings of the 2016 International Conference on Compilers, Architecture and Synthesis for Embedded Systems* (CASES 2016).
 
   [PDF](https://github.com/michel-steuwer/publications/blob/master/2016/CASES-2016.pdf)
 
