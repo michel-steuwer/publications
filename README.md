@@ -53,3 +53,8 @@
   [**Improving Programmability and Performance Portability on Many-Core Processors**](https://github.com/michel-steuwer/publications/blob/master/2015/PhDThesis.pdf); Ph.D. Thesis; University of Münster, Germany; Supervised by [Sergei Gorlatch](http://www.uni-muenster.de/PVS/mitarbeiter/gorlatch.html).
 
   [PDF](https://github.com/michel-steuwer/publications/blob/master/2015/PhDThesis.pdf), [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2015/PhDThesis.bib)
+
+- *Michel Steuwer*, Christian Fensch, and Christophe Dubach:
+  [**Patterns and Rewrite Rules for Systematic Code Generation (From High-Level Functional Patterns to High-Performance Opencl Code)**](https://github.com/michel-steuwer/publications/blob/master/2015/arXiv-2015.pdf); Technical Report.
+
+  [PDF](https://github.com/michel-steuwer/publications/blob/master/2015/arXiv-2015.pdf), [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2015/arXiv-2015.bib), [arXiv](http://arxiv.org/abs/1502.02389)
