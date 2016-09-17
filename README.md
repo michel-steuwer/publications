@@ -69,4 +69,9 @@
 - Michael Olejnik, *Michel Steuwer*, Sergei Gorlatch, and Dominik Heider:
   [**gCUP: rapid GPU-based HIV-1 co-receptor usage prediction for next-generation sequencing**](http://dx.doi.org/10.1093/bioinformatics/btu535), in *Bioinformatics, Volume 30, Number 22, November 2014*.
 
-  [Paper](http://dx.doi.org/10.1093/bioinformatics/btu535), [BibTex](https://github.com/michel-steuwer/publications/blob/master/2014/Bioinformatics-2014.bib)
+  [Paper](http://dx.doi.org/10.1093/bioinformatics/btu535), [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2014/Bioinformatics-2014.bib)
+
+- *Michel Steuwer*, Malte Friese, Sebastian Albers, and Sergei Gorlatch:
+  [**Introducing and Implementing the Allpairs Skeleton for Programming Multi-GPU Systems**](https://github.com/michel-steuwer/publications/blob/master/2014/IJPP-2014.pdf), in the *International Journal of Parallel Programming, Volume 42, Number 4, August 2014*.
+
+  [PDF](https://github.com/michel-steuwer/publications/blob/master/2014/IJPP-2014.pdf), [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2014/IJPP-2014.bib), [Springer](http://dx.doi.org/10.1007/s10766-013-0265-6)
