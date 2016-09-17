@@ -69,7 +69,7 @@
 - Michael Olejnik, *Michel Steuwer*, Sergei Gorlatch, and Dominik Heider:
   [**gCUP: rapid GPU-based HIV-1 co-receptor usage prediction for next-generation sequencing**](http://dx.doi.org/10.1093/bioinformatics/btu535), in *[Bioinformatics](http://bioinformatics.oxfordjournals.org/), Volume 30, Number 22, November 2014*.
 
-  [Paper](http://dx.doi.org/10.1093/bioinformatics/btu535), [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2014/Bioinformatics-2014.bib)
+  [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2014/Bioinformatics-2014.bib), [Paper](http://dx.doi.org/10.1093/bioinformatics/btu535)
 
 - *Michel Steuwer*, Malte Friese, Sebastian Albers, and Sergei Gorlatch:
   [**Introducing and Implementing the Allpairs Skeleton for Programming Multi-GPU Systems**](https://github.com/michel-steuwer/publications/blob/master/2014/IJPP-2014.pdf), in the *[International Journal of Parallel Programming](http://link.springer.com/journal/10766), Volume 42, Number 4, August 2014*.
@@ -85,3 +85,8 @@
   [**SkelCL: A high-level extension of OpenCL for multi-GPU systems**](https://github.com/michel-steuwer/publications/blob/master/2014/JoS-2014.pdf), in the *[Journal of Supercomputing](http://www.springer.com/computer/swe/journal/11227), Volume 69, Number 1, July 2014.*.
 
   [PDF](https://github.com/michel-steuwer/publications/blob/master/2014/JoS-2014.pdf), [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2014/JoS-2014.bib), [Springer](http://dx.doi.org/10.1007/s11227-014-1213-y)
+
+- Sergei Gorlatch and *Michel Steuwer*:
+  [**Towards High-Level Programming for Systems with Many Cores**](https://github.com/michel-steuwer/publications/blob/master/2014/PSI-2014.pdf), in the *[Ershov Informatics Conference](http://psi.nsc.ru/psi14/index) 2014.*
+
+  [PDF](https://github.com/michel-steuwer/publications/blob/master/2014/PSI-2014.pdf), [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2014/PSI-2014.bib), [Springer](http://dx.doi.org/10.1007/978-3-662-46823-4_10)
