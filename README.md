@@ -36,3 +36,10 @@
   [**Autotuning OpenCL Workgroup Size for Stencil Patterns**](https://github.com/michel-steuwer/publications/blob/master/2016/ADAPT-2016.pdf), in *the [6th International Workshop on Adaptive Self-tuning Computing Systems](http://adapt-workshop.org/program2016.html) (ADAPT) 2016 @ HiPEAC*.
 
   [PDF](https://github.com/michel-steuwer/publications/blob/master/2016/ADAPT-2016.pdf), [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2016/ADAPT-2016.bib)
+
+## 2015
+
+- *Michel Steuwer*, Christian Fensch, Sam Lindley, and Christophe Dubach:
+  [**Generating Performance Portable Code using Rewrite Rules: From High-Level Functional Expressions to High-Performance OpenCL Code**](https://github.com/michel-steuwer/publications/blob/master/2015/ICFP-2015.pdf), in *Proceedings of the [2015 International Conference on Functional Programming](http://www.icfpconference.org/icfp2015/index.html) (ICFP 2015)*.
+
+  [PDF](https://github.com/michel-steuwer/publications/blob/master/2015/ICFP-2015.pdf), [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2015/ICFP-2015.bib), [Slides](https://github.com/michel-steuwer/talks/blob/master/2015/ICFP-2015.pdf), [Video](https://www.youtube.com/watch?v=xNYMIsGTXC4)
