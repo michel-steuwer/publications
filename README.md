@@ -42,4 +42,4 @@
 - *Michel Steuwer*, Christian Fensch, Sam Lindley, and Christophe Dubach:
   [**Generating Performance Portable Code using Rewrite Rules: From High-Level Functional Expressions to High-Performance OpenCL Code**](https://github.com/michel-steuwer/publications/blob/master/2015/ICFP-2015.pdf), in *Proceedings of the [2015 International Conference on Functional Programming](http://www.icfpconference.org/icfp2015/index.html) (ICFP 2015)*.
 
-  [PDF](https://github.com/michel-steuwer/publications/blob/master/2015/ICFP-2015.pdf), [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2015/ICFP-2015.bib), [Slides](https://github.com/michel-steuwer/talks/blob/master/2015/ICFP-2015.pdf), [Video](https://www.youtube.com/watch?v=xNYMIsGTXC4)
+  [PDF](https://github.com/michel-steuwer/publications/blob/master/2015/ICFP-2015.pdf), [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2015/ICFP-2015.bib), [Slides](https://github.com/michel-steuwer/talks/blob/master/2015/ICFP-2015.pdf), [Video](https://www.youtube.com/watch?v=xNYMIsGTXC4), [ACM DL](http://doi.acm.org/10.1145/2784731.2784754)
