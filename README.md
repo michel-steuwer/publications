@@ -15,12 +15,12 @@
 - Toomas Remmelg, Thibaut Lutz, *Michel Steuwer*, and Christophe Dubach:
   [**Performance Portable GPU Code Generation for Matrix Multiplication**](https://github.com/michel-steuwer/publications/blob/master/2016/GPGPU-2016-1.pdf), in *the [9th Workshop on General Purpose Processing using GPUs](http://conf.researchr.org/track/PPoPP-2016/GPGPU-2016-papers) (GPGPU) 2016 @ PPoPP*.
 
-  [PDF](https://github.com/michel-steuwer/publications/blob/master/2016/GPGPU-2016-1.pdf), [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2016/GPGPU-2016-1.bib)
+  [PDF](https://github.com/michel-steuwer/publications/blob/master/2016/GPGPU-2016-1.pdf), [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2016/GPGPU-2016-1.bib), [ACM DL](http://doi.acm.org/10.1145/2884045.2884046)
 
 - Michael Haidl, *Michel Steuwer*, Tim Humernbrum, and Sergei Gorlatch:
   [**Multi-Stage Programming for GPUs in Modern C++ using PACXX**](https://github.com/michel-steuwer/publications/blob/master/2016/GPGPU-2016-2.pdf), in *the [9th Workshop on General Purpose Processing using GPUs](http://conf.researchr.org/track/PPoPP-2016/GPGPU-2016-papers) (GPGPU) 2016 @ PPoPP*.
 
-  [PDF](https://github.com/michel-steuwer/publications/blob/master/2016/GPGPU-2016-2.pdf), [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2016/GPGPU-2016-2.bib)
+  [PDF](https://github.com/michel-steuwer/publications/blob/master/2016/GPGPU-2016-2.pdf), [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2016/GPGPU-2016-2.bib), [ACM DL](http://doi.acm.org/10.1145/2884045.2884049)
 
 - Adam Harries, *Michel Steuwer*, Murray Cole, Alan Gray, and Christophe Dubach:
   [**Compositional Compilation for Sparse, Irregular Data Parallelism**](https://github.com/michel-steuwer/publications/blob/master/2016/HLPGPU-2016-1.pdf), in *the [Workshop on High-Level Programming for Heterogeneous and Hierarchical Parallel Systems](https://sites.google.com/site/hlpgpu2016/) (HLPGPU) 2016 @ HiPEAC*.
@@ -43,3 +43,8 @@
   [**Generating Performance Portable Code using Rewrite Rules: From High-Level Functional Expressions to High-Performance OpenCL Code**](https://github.com/michel-steuwer/publications/blob/master/2015/ICFP-2015.pdf), in *Proceedings of the [2015 International Conference on Functional Programming](http://www.icfpconference.org/icfp2015/index.html) (ICFP 2015)*.
 
   [PDF](https://github.com/michel-steuwer/publications/blob/master/2015/ICFP-2015.pdf), [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2015/ICFP-2015.bib), [Slides](https://github.com/michel-steuwer/talks/blob/master/2015/ICFP-2015.pdf), [Video](https://www.youtube.com/watch?v=xNYMIsGTXC4), [ACM DL](http://doi.acm.org/10.1145/2784731.2784754)
+
+- Juae José Fumero, Toomas Remmelg, *Michel Steuwer*, and Christophe Dubach:
+  [**Runtime Code Generation and Data Management for Heterogeneous Computing in Java**](https://github.com/michel-steuwer/publications/blob/master/2015/PPPJ-2015.pdf), in *Proceedings of the [12th International Conference on Principles and Practice of Programming on the Java Platform: Virtual machines, languages, and tools](http://pppj2015.cs.fit.edu/) (PPPJ) 2015*.
+
+  [PDF](https://github.com/michel-steuwer/publications/blob/master/2015/PPPJ-2015.pdf), [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2015/PPPJ-2015.bib), [ACM DL](http://doi.acm.org/10.1145/2807426.2807428)
