@@ -128,3 +128,8 @@
   [**Towards High-Level Programming of Multi-GPU Systems Using the SkelCL Library**](https://github.com/michel-steuwer/publications/blob/master/2012/AsHES-2012.pdf), in the *[Second International Workshop on Accelerators and Hybrid Exasclae Systems](http://www.mcs.anl.gov/events/workshops/ashes/2012/) (AsHES) 2012 @ IPDPS*.
 
   [PDF](https://github.com/michel-steuwer/publications/blob/master/2012/AsHES-2012.pdf), [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2012/AsHES-2012.bib), [IEEE Xplore](http://dx.doi.org/10.1109/IPDPSW.2012.229)
+
+- *Michel Steuwer*, Philipp Kegel, and Seregi Gorlatch:
+  [**A High-Level Programming Approach for Distributed Systems with Accelerators**](http://dx.doi.org/10.3233/978-1-61499-125-0-430), in *Proceedings of the [11th New Trends in Software Methodologies, Tools and Techniques](http://www.somet.soft.iwate-pu.ac.jp/somet_12/) (SoMeT) 2012*.
+
+  [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2012/SoMET-2012.bib), [IOS Press](http://dx.doi.org/10.3233/978-1-61499-125-0-430)
