@@ -5,7 +5,9 @@
 - *Michel Steuwer*, Toomas Remmelg, and Christophe Dubach:
   [**Matrix Multiplication Beyond Auto-Tuning: Rewrite-based GPU Code Generation**](https://github.com/michel-steuwer/publications/blob/master/2016/CASES-2016.pdf), in *Proceedings of the [2016 International Conference on Compilers, Architecture and Synthesis for Embedded Systems](http://www.esweek.org/cases/about) (CASES 2016)*.
 
-  [PDF](https://github.com/michel-steuwer/publications/blob/master/2016/CASES-2016.pdf), [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2016/CASES-2016.bib), [Google Scholar](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=XdXJRZEAAAAJ&cstart=20&pagesize=80&citation_for_view=XdXJRZEAAAAJ:4TOpqqG69KYC)
+  [PDF](https://github.com/michel-steuwer/publications/blob/master/2016/CASES-2016.pdf),
+  [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2016/CASES-2016.bib),
+  [Google Scholar](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=XdXJRZEAAAAJ&cstart=20&pagesize=80&citation_for_view=XdXJRZEAAAAJ:4TOpqqG69KYC)
 
 - *Michel Steuwer*:
   [**Verbesserung der Programmierbarkeit und Performance-Portabilität von Manycore-Prozessoren (Improving the Programmability and Performance Portability on Many-Core Processors)**](https://github.com/michel-steuwer/publications/blob/master/2016/GIDIS-2015.pdf), in *Ausgezeichnete Informatikdissertationen (Distinguished Disserations in Informatics) 2015*.
