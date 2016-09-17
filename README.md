@@ -102,3 +102,8 @@
   [**High-Level Programming for Medical Imaging on Multi-GPU Systems Using the SkelCL Library**](https://github.com/michel-steuwer/publications/blob/master/2013/ICCS-2013.pdf), in the Proceedings of the *[International Conference on Computational Science](http://www.iccs-meeting.org/iccs2013/) (ICCS) 2013*.
 
   [PDF](https://github.com/michel-steuwer/publications/blob/master/2013/ICCS-2013.pdf), [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2013/ICCS-2013.bib), [Elsevier](http://dx.doi.org/10.1016/j.procs.2013.05.239)
+
+- *Michel Steuwer* and Sergei Gorlatch:
+  [**SkelCL: Enhancing OpenCL for High-Level Programming of Multi-GPU Systems**](https://github.com/michel-steuwer/publications/blob/master/2013/PaCT-2013.pdf), in the Proceedings of the *[12th International Conference on Parallel Computing Technologies](http://ssd.sscc.ru/conf/pact2013/) (PaCT) 2013*.
+
+  [PDF](https://github.com/michel-steuwer/publications/blob/master/2013/PaCT-2013.pdf), [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2013/PaCT-2013.bib), [Springer](http://dx.doi.org/10.1007/978-3-642-39958-9_24)
