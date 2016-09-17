@@ -144,6 +144,6 @@
 ## 2010
 
 - *Michel Steuwer*, Philipp Kegel, and Sergei Gorlatch:
-  [**SkelCL - A Portable Multi-GPU Skeleton Library**](https://github.com/michel-steuwer/publications/blob/master/2010/SkelCL-2010.pdf); Technical Report.
+  [**SkelCL - A Portable Multi-GPU Skeleton Library**](https://github.com/michel-steuwer/publications/blob/master/2010/SkelCL-2010.pdf); Technical Report, University of Münster.
 
   [PDF](https://github.com/michel-steuwer/publications/blob/master/2010/SkelCL-2010.pdf), [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2010/SkelCL-2010.bib)
