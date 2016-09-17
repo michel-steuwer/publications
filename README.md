@@ -102,7 +102,7 @@
   [**gCUP: rapid GPU-based HIV-1 co-receptor usage prediction for next-generation sequencing**](http://dx.doi.org/10.1093/bioinformatics/btu535), in *[Bioinformatics](http://bioinformatics.oxfordjournals.org/), Volume 30, Number 22, November 2014*.
 
   [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2014/Bioinformatics-2014.bib),
-  [Paper at Oxford Journals](http://dx.doi.org/10.1093/bioinformatics/btu535),
+  [Oxford Journals](http://dx.doi.org/10.1093/bioinformatics/btu535),
   [Google Scholar](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=XdXJRZEAAAAJ&citation_for_view=XdXJRZEAAAAJ:eQOLeE2rZwMC)
 
 - *Michel Steuwer*, Malte Friese, Sebastian Albers, and Sergei Gorlatch:
@@ -166,14 +166,14 @@
   [**dOpenCL: Towards uniform programming of distributed heterogeneous multi-/many-core systems**](http://dx.doi.org/10.1016/j.jpdc.2013.07.021), in the *[Journal of Parallel and Distributed Computing](http://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing/), Volume 73, Number 12, December 2013*.
 
   [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2013/JPDC-2013.bib),
-  [Paper at Elsevier](http://dx.doi.org/10.1016/j.jpdc.2013.07.021),
+  [Elsevier](http://dx.doi.org/10.1016/j.jpdc.2013.07.021),
   [Google Scholar](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=XdXJRZEAAAAJ&citation_for_view=XdXJRZEAAAAJ:UeHWp8X0CEIC)
 
 - Philipp Kegel, *Michel Steuwer*, Sergei Gorlatch:
   [**Uniform High-Level Programming of Many-Core and Multi-GPU Systems**](http://dx.doi.org/10.3233/978-1-61499-324-7-159), chapter in the Book *Volume 24: Transition of HPC Towards Exascale Computing* of the series *Advances in Parallel Computing*.
 
   [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2013/APC-2013.bib),
-  [Paper at IOS Press](http://dx.doi.org/10.3233/978-1-61499-324-7-159).
+  [IOS Press](http://dx.doi.org/10.3233/978-1-61499-324-7-159).
   [Google Scholar](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=XdXJRZEAAAAJ&cstart=20&pagesize=80&citation_for_view=XdXJRZEAAAAJ:Tyk-4Ss8FVUC)
 
 ## 2012
