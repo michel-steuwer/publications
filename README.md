@@ -169,6 +169,13 @@
   [Paper at Elsevier](http://dx.doi.org/10.1016/j.jpdc.2013.07.021),
   [Google Scholar](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=XdXJRZEAAAAJ&citation_for_view=XdXJRZEAAAAJ:UeHWp8X0CEIC)
 
+- Philipp Kegel, *Michel Steuwer*, Sergei Gorlatch:
+  [**Uniform High-Level Programming of Many-Core and Multi-GPU Systems**], chapter in the Book *Volume 24: Transition of HPC Towards Exascale Computing* of the series *Advances in Parallel Computing*.
+
+  [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2013/APC-2013.bib),
+  [Paper at IOS Press](http://dx.doi.org/10.3233/978-1-61499-324-7-159).
+  [Google Scholar](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=XdXJRZEAAAAJ&cstart=20&pagesize=80&citation_for_view=XdXJRZEAAAAJ:Tyk-4Ss8FVUC)
+
 ## 2012
 - *Michel Steuwer*, Sergei Gorlatch, Matthias Buß, and Stefan Breuer:
   [**Using the SkelCL Library for High-Level GPU Programming of 2D Applications**](https://github.com/michel-steuwer/publications/blob/master/2012/ParaPhrase-2012.pdf), in the *2nd Open ParaPhrase Worjkshop 2012 @ Euro-Par*.
