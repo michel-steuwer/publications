@@ -170,7 +170,7 @@
   [Google Scholar](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=XdXJRZEAAAAJ&citation_for_view=XdXJRZEAAAAJ:UeHWp8X0CEIC)
 
 - Philipp Kegel, *Michel Steuwer*, Sergei Gorlatch:
-  [**Uniform High-Level Programming of Many-Core and Multi-GPU Systems**], chapter in the Book *Volume 24: Transition of HPC Towards Exascale Computing* of the series *Advances in Parallel Computing*.
+  [**Uniform High-Level Programming of Many-Core and Multi-GPU Systems**](http://dx.doi.org/10.3233/978-1-61499-324-7-159), chapter in the Book *Volume 24: Transition of HPC Towards Exascale Computing* of the series *Advances in Parallel Computing*.
 
   [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2013/APC-2013.bib),
   [Paper at IOS Press](http://dx.doi.org/10.3233/978-1-61499-324-7-159).
