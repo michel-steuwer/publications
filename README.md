@@ -58,3 +58,10 @@
   [**Patterns and Rewrite Rules for Systematic Code Generation (From High-Level Functional Patterns to High-Performance Opencl Code)**](https://github.com/michel-steuwer/publications/blob/master/2015/arXiv-2015.pdf); Technical Report.
 
   [PDF](https://github.com/michel-steuwer/publications/blob/master/2015/arXiv-2015.pdf), [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2015/arXiv-2015.bib), [arXiv](http://arxiv.org/abs/1502.02389)
+
+## 2014
+
+- Juan José Fumero, *Michel Steuwer*, and Christophe Dubach:
+  [**A Composable Array Function Interface for Heterogeneous Computing in Java**](https://github.com/michel-steuwer/publications/blob/master/2014/ARRAY-2014.pdf), in *the [ACM SIGPLAN International Workshop on Libraries, Languages and Compilers for Array Programming](http://www.sable.mcgill.ca/array/2014/index.html) (ARRAY) 2014 @ PLDI*.
+
+  [PDF](https://github.com/michel-steuwer/publications/blob/master/2014/ARRAY-2014.pdf), [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2014/ARRAY-2014.bib), [ACM DL](http://doi.acm.org/10.1145/2627373.2627381)
