@@ -112,3 +112,9 @@
   [**dOpenCL: Towards uniform programming of distributed heterogeneous multi-/many-core systems**](http://dx.doi.org/10.1016/j.jpdc.2013.07.021), in the *[Journal of Parallel and Distributed Computing](http://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing/), Volume 73, Number 12, December 2013*.
 
   [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2013/JPDC-2013.bib), [Paper at Elsevier](http://dx.doi.org/10.1016/j.jpdc.2013.07.021)
+
+## 2012
+- *Michel Steuwer*, Sergei Gorlatch, Matthias Buß, and Stefan Breuer:
+  [**Using the SkelCL Library for High-Level GPU Programming of 2D Applications**](https://github.com/michel-steuwer/publications/blob/master/2012/ParaPhrase-2012.pdf), in the *2nd Open ParaPhrase Worjkshop 2012 @ Euro-Par*.
+
+  [PDF](https://github.com/michel-steuwer/publications/blob/master/2012/ParaPhrase-2012.pdf), [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2012/ParaPhrase-2012.bib), [Springer](http://dx.doi.org/10.1007/978-3-642-36949-0_41)
