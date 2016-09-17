@@ -90,3 +90,8 @@
   [**Towards High-Level Programming for Systems with Many Cores**](https://github.com/michel-steuwer/publications/blob/master/2014/PSI-2014.pdf), in the *[Ershov Informatics Conference](http://psi.nsc.ru/psi14/index) 2014.*
 
   [PDF](https://github.com/michel-steuwer/publications/blob/master/2014/PSI-2014.pdf), [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2014/PSI-2014.bib), [Springer](http://dx.doi.org/10.1007/978-3-662-46823-4_10)
+
+- Stefan Breuer, *Michel Steuwer*, and Sergei Gorlatch:
+  [**Extending the SkelCL Library for Stencil Computations on Multi-GPU Systems**](https://github.com/michel-steuwer/publications/blob/master/2014/HiStencils-2014.pdf), in the *[1st International Workshop on High-Performance Stencil Computations](http://www.exastencils.org/histencils/2014/) (HiStencils) 2014 @ HiPEAC*.
+
+  [PDF](https://github.com/michel-steuwer/publications/blob/master/2014/HiStencils-2014.pdf), [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2014/HiStencils-2014.bib)
