@@ -3,13 +3,13 @@
 ## 2017
 
 - *Michel Steuwer*, Toomas Remmelg, and Christophe Dubach:
-  [**Lift: A Functional Data-Parallel IR for High-Performance GPU Code Generation**](https://github.com/michel-steuwer/publications/blob/master/2017/CGO-2017.pdf), accepted for publication in the *Proceedings of the [2017 International Symposium on Code Generation and Optimization](http://www.cgo.org) (CGO 2017)*.
+  [**Lift: A Functional Data-Parallel IR for High-Performance GPU Code Generation**](https://github.com/michel-steuwer/publications/blob/master/2017/CGO-2017.pdf), accepted for publication in the *Proceedings of the [2017 International Symposium on Code Generation and Optimization](http://www.cgo.org) (CGO)*.
 
   [PDF (accepted version)](https://github.com/michel-steuwer/publications/blob/master/2017/CGO-2017.pdf),
   [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2017/CGO-2017.bib)
 
 - Michael Haidl, *Michel Steuwer*, Hendrik Dirks, Tim Hummernbrum, Sergei Gorlatch:
-  [**Towards Composable GPU Programming: Programming GPUs with Eager Actions and Lazy Views**](https://github.com/michel-steuwer/publications/blob/master/2017/PMAM-2017.pdf), accepted for publication in the *Proceedings of the [2017 International Workshop on Programming Models and Applications for Multicores and Manycores](http://www.cs.otago.ac.nz/pmam2017/) (PMAM@PPoPP)*.
+  [**Towards Composable GPU Programming: Programming GPUs with Eager Actions and Lazy Views**](https://github.com/michel-steuwer/publications/blob/master/2017/PMAM-2017.pdf), accepted for publication in the *Proceedings of the [2017 International Workshop on Programming Models and Applications for Multicores and Manycores](http://www.cs.otago.ac.nz/pmam2017/) (PMAM) @ PPoPP*.
 
   [PDF (accepted version)](https://github.com/michel-steuwer/publications/blob/master/2017/PMAM-2017.pdf),
   [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2017/PMAM-2017.bib)
@@ -18,7 +18,7 @@
 ## 2016
 
 - *Michel Steuwer*, Toomas Remmelg, and Christophe Dubach:
-  [**Matrix Multiplication Beyond Auto-Tuning: Rewrite-based GPU Code Generation**](https://github.com/michel-steuwer/publications/blob/master/2016/CASES-2016.pdf), in *Proceedings of the [2016 International Conference on Compilers, Architecture and Synthesis for Embedded Systems](http://www.esweek.org/cases/about) (CASES 2016)*.
+  [**Matrix Multiplication Beyond Auto-Tuning: Rewrite-based GPU Code Generation**](https://github.com/michel-steuwer/publications/blob/master/2016/CASES-2016.pdf), in *Proceedings of the [2016 International Conference on Compilers, Architecture and Synthesis for Embedded Systems](http://www.esweek.org/cases/about) (CASES)*.
 
   [PDF](https://github.com/michel-steuwer/publications/blob/master/2016/CASES-2016.pdf),
   [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2016/CASES-2016.bib),
@@ -32,7 +32,7 @@
   [Google Scholar](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=XdXJRZEAAAAJ&cstart=20&pagesize=80&citation_for_view=XdXJRZEAAAAJ:_kc_bZDykSQC)
 
 - Toomas Remmelg, Thibaut Lutz, *Michel Steuwer*, and Christophe Dubach:
-  [**Performance Portable GPU Code Generation for Matrix Multiplication**](https://github.com/michel-steuwer/publications/blob/master/2016/GPGPU-2016-1.pdf), in *the [9th Workshop on General Purpose Processing using GPUs](http://conf.researchr.org/track/PPoPP-2016/GPGPU-2016-papers) (GPGPU) 2016 @ PPoPP*.
+  [**Performance Portable GPU Code Generation for Matrix Multiplication**](https://github.com/michel-steuwer/publications/blob/master/2016/GPGPU-2016-1.pdf), in *the [9th Workshop on General Purpose Processing using GPUs](http://conf.researchr.org/track/PPoPP-2016/GPGPU-2016-papers) (GPGPU) @ PPoPP*.
 
   [PDF](https://github.com/michel-steuwer/publications/blob/master/2016/GPGPU-2016-1.pdf),
   [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2016/GPGPU-2016-1.bib),
@@ -40,7 +40,7 @@
   [Google Scholar](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=XdXJRZEAAAAJ&citation_for_view=XdXJRZEAAAAJ:Zph67rFs4hoC)
 
 - Michael Haidl, *Michel Steuwer*, Tim Humernbrum, and Sergei Gorlatch:
-  [**Multi-Stage Programming for GPUs in Modern C++ using PACXX**](https://github.com/michel-steuwer/publications/blob/master/2016/GPGPU-2016-2.pdf), in *the [9th Workshop on General Purpose Processing using GPUs](http://conf.researchr.org/track/PPoPP-2016/GPGPU-2016-papers) (GPGPU) 2016 @ PPoPP*.
+  [**Multi-Stage Programming for GPUs in Modern C++ using PACXX**](https://github.com/michel-steuwer/publications/blob/master/2016/GPGPU-2016-2.pdf), in *the [9th Workshop on General Purpose Processing using GPUs](http://conf.researchr.org/track/PPoPP-2016/GPGPU-2016-papers) (GPGPU) @ PPoPP*.
 
   [PDF](https://github.com/michel-steuwer/publications/blob/master/2016/GPGPU-2016-2.pdf),
   [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2016/GPGPU-2016-2.bib),
@@ -48,21 +48,21 @@
   [Google Scholar](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=XdXJRZEAAAAJ&citation_for_view=XdXJRZEAAAAJ:3fE2CSJIrl8C)
 
 - Adam Harries, *Michel Steuwer*, Murray Cole, Alan Gray, and Christophe Dubach:
-  [**Compositional Compilation for Sparse, Irregular Data Parallelism**](https://github.com/michel-steuwer/publications/blob/master/2016/HLPGPU-2016-1.pdf), in *the [Workshop on High-Level Programming for Heterogeneous and Hierarchical Parallel Systems](https://sites.google.com/site/hlpgpu2016/) (HLPGPU) 2016 @ HiPEAC*.
+  [**Compositional Compilation for Sparse, Irregular Data Parallelism**](https://github.com/michel-steuwer/publications/blob/master/2016/HLPGPU-2016-1.pdf), in *the [Workshop on High-Level Programming for Heterogeneous and Hierarchical Parallel Systems](https://sites.google.com/site/hlpgpu2016/) (HLPGPU) @ HiPEAC*.
 
   [PDF](https://github.com/michel-steuwer/publications/blob/master/2016/HLPGPU-2016-1.pdf),
   [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2016/HLPGPU-2016-1.bib),
   [Google Scholar](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=XdXJRZEAAAAJ&citation_for_view=XdXJRZEAAAAJ:MXK_kJrjxJIC)
 
 - Chris Cummins, Pavlos Petoumenos, *Michel Steuwer*, and Hugh Leather:
-  [**Towards Collaborative Performance Tuning of Algorithmic Skeletons**](https://github.com/michel-steuwer/publications/blob/master/2016/HLPGPU-2016-2.pdf), in *the [Workshop on High-Level Programming for Heterogeneous and Hierarchical Parallel Systems](https://sites.google.com/site/hlpgpu2016/) (HLPGPU) 2016 @ HiPEAC*.
+  [**Towards Collaborative Performance Tuning of Algorithmic Skeletons**](https://github.com/michel-steuwer/publications/blob/master/2016/HLPGPU-2016-2.pdf), in *the [Workshop on High-Level Programming for Heterogeneous and Hierarchical Parallel Systems](https://sites.google.com/site/hlpgpu2016/) (HLPGPU) @ HiPEAC*.
 
   [PDF](https://github.com/michel-steuwer/publications/blob/master/2016/HLPGPU-2016-2.pdf),
   [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2016/HLPGPU-2016-2.bib),
   [Google Scholar](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=XdXJRZEAAAAJ&cstart=20&pagesize=80&citation_for_view=XdXJRZEAAAAJ:8k81kl-MbHgC)
 
 - Chris Cummins, Pavlos Petoumenos, *Michel Steuwer*, and Hugh Leather:
-  [**Autotuning OpenCL Workgroup Size for Stencil Patterns**](https://github.com/michel-steuwer/publications/blob/master/2016/ADAPT-2016.pdf), in *the [6th International Workshop on Adaptive Self-tuning Computing Systems](http://adapt-workshop.org/program2016.html) (ADAPT) 2016 @ HiPEAC*.
+  [**Autotuning OpenCL Workgroup Size for Stencil Patterns**](https://github.com/michel-steuwer/publications/blob/master/2016/ADAPT-2016.pdf), in *the [6th International Workshop on Adaptive Self-tuning Computing Systems](http://adapt-workshop.org/program2016.html) (ADAPT) @ HiPEAC*.
 
   [PDF](https://github.com/michel-steuwer/publications/blob/master/2016/ADAPT-2016.pdf),
   [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2016/ADAPT-2016.bib),
@@ -71,7 +71,7 @@
 ## 2015
 
 - *Michel Steuwer*, Christian Fensch, Sam Lindley, and Christophe Dubach:
-  [**Generating Performance Portable Code using Rewrite Rules: From High-Level Functional Expressions to High-Performance OpenCL Code**](https://github.com/michel-steuwer/publications/blob/master/2015/ICFP-2015.pdf), in *Proceedings of the [2015 International Conference on Functional Programming](http://www.icfpconference.org/icfp2015/index.html) (ICFP 2015)*.
+  [**Generating Performance Portable Code using Rewrite Rules: From High-Level Functional Expressions to High-Performance OpenCL Code**](https://github.com/michel-steuwer/publications/blob/master/2015/ICFP-2015.pdf), in *Proceedings of the [2015 International Conference on Functional Programming](http://www.icfpconference.org/icfp2015/index.html) (ICFP)*.
 
   [PDF](https://github.com/michel-steuwer/publications/blob/master/2015/ICFP-2015.pdf),
   [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2015/ICFP-2015.bib),
@@ -81,7 +81,7 @@
   [Google Scholar](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=XdXJRZEAAAAJ&citation_for_view=XdXJRZEAAAAJ:UebtZRa9Y70C)
 
 - Juan José Fumero, Toomas Remmelg, *Michel Steuwer*, and Christophe Dubach:
-  [**Runtime Code Generation and Data Management for Heterogeneous Computing in Java**](https://github.com/michel-steuwer/publications/blob/master/2015/PPPJ-2015.pdf), in *Proceedings of the [12th International Conference on Principles and Practice of Programming on the Java Platform: Virtual machines, languages, and tools](http://pppj2015.cs.fit.edu/) (PPPJ) 2015*.
+  [**Runtime Code Generation and Data Management for Heterogeneous Computing in Java**](https://github.com/michel-steuwer/publications/blob/master/2015/PPPJ-2015.pdf), in *Proceedings of the [12th International Conference on Principles and Practice of Programming on the Java Platform: Virtual machines, languages, and tools](http://pppj2015.cs.fit.edu/) (PPPJ)*.
 
   [PDF](https://github.com/michel-steuwer/publications/blob/master/2015/PPPJ-2015.pdf),
   [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2015/PPPJ-2015.bib),
@@ -109,7 +109,7 @@
 ## 2014
 
 - Juan José Fumero, *Michel Steuwer*, and Christophe Dubach:
-  [**A Composable Array Function Interface for Heterogeneous Computing in Java**](https://github.com/michel-steuwer/publications/blob/master/2014/ARRAY-2014.pdf), in *the [ACM SIGPLAN International Workshop on Libraries, Languages and Compilers for Array Programming](http://www.sable.mcgill.ca/array/2014/index.html) (ARRAY) 2014 @ PLDI*.
+  [**A Composable Array Function Interface for Heterogeneous Computing in Java**](https://github.com/michel-steuwer/publications/blob/master/2014/ARRAY-2014.pdf), in *the [ACM SIGPLAN International Workshop on Libraries, Languages and Compilers for Array Programming](http://www.sable.mcgill.ca/array/2014/index.html) (ARRAY) @ PLDI*.
 
   [PDF](https://github.com/michel-steuwer/publications/blob/master/2014/ARRAY-2014.pdf),
   [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2014/ARRAY-2014.bib),
@@ -148,7 +148,7 @@
   [Google Scholar](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=XdXJRZEAAAAJ&citation_for_view=XdXJRZEAAAAJ:YsMSGLbcyi4C)
 
 - Sergei Gorlatch and *Michel Steuwer*:
-  [**Towards High-Level Programming for Systems with Many Cores**](https://github.com/michel-steuwer/publications/blob/master/2014/PSI-2014.pdf), in the *[Ershov Informatics Conference](http://psi.nsc.ru/psi14/index) 2014.*
+  [**Towards High-Level Programming for Systems with Many Cores**](https://github.com/michel-steuwer/publications/blob/master/2014/PSI-2014.pdf), in the *[Ershov Informatics Conference](http://psi.nsc.ru/psi14/index).*
 
   [PDF](https://github.com/michel-steuwer/publications/blob/master/2014/PSI-2014.pdf),
   [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2014/PSI-2014.bib),
@@ -156,7 +156,7 @@
   [Google Scholar](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=XdXJRZEAAAAJ&cstart=20&pagesize=80&citation_for_view=XdXJRZEAAAAJ:roLk4NBRz8UC)
 
 - Stefan Breuer, *Michel Steuwer*, and Sergei Gorlatch:
-  [**Extending the SkelCL Library for Stencil Computations on Multi-GPU Systems**](https://github.com/michel-steuwer/publications/blob/master/2014/HiStencils-2014.pdf), in the *[1st International Workshop on High-Performance Stencil Computations](http://www.exastencils.org/histencils/2014/) (HiStencils) 2014 @ HiPEAC*.
+  [**Extending the SkelCL Library for Stencil Computations on Multi-GPU Systems**](https://github.com/michel-steuwer/publications/blob/master/2014/HiStencils-2014.pdf), in the *[1st International Workshop on High-Performance Stencil Computations](http://www.exastencils.org/histencils/2014/) (HiStencils) @ HiPEAC*.
 
   [PDF](https://github.com/michel-steuwer/publications/blob/master/2014/HiStencils-2014.pdf),
   [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2014/HiStencils-2014.bib),
@@ -165,7 +165,7 @@
 ## 2013
 
 - *Michel Steuwer* and Sergei Gorlatch:
-  [**High-Level Programming for Medical Imaging on Multi-GPU Systems Using the SkelCL Library**](https://github.com/michel-steuwer/publications/blob/master/2013/ICCS-2013.pdf), in the Proceedings of the *[International Conference on Computational Science](http://www.iccs-meeting.org/iccs2013/) (ICCS) 2013*.
+  [**High-Level Programming for Medical Imaging on Multi-GPU Systems Using the SkelCL Library**](https://github.com/michel-steuwer/publications/blob/master/2013/ICCS-2013.pdf), in the Proceedings of the *[International Conference on Computational Science](http://www.iccs-meeting.org/iccs2013/) (ICCS)*.
 
   [PDF](https://github.com/michel-steuwer/publications/blob/master/2013/ICCS-2013.pdf),
   [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2013/ICCS-2013.bib),
@@ -173,7 +173,7 @@
   [Google Scholar](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=XdXJRZEAAAAJ&citation_for_view=XdXJRZEAAAAJ:qjMakFHDy7sC)
 
 - *Michel Steuwer* and Sergei Gorlatch:
-  [**SkelCL: Enhancing OpenCL for High-Level Programming of Multi-GPU Systems**](https://github.com/michel-steuwer/publications/blob/master/2013/PaCT-2013.pdf), in the Proceedings of the *[12th International Conference on Parallel Computing Technologies](http://ssd.sscc.ru/conf/pact2013/) (PaCT) 2013*.
+  [**SkelCL: Enhancing OpenCL for High-Level Programming of Multi-GPU Systems**](https://github.com/michel-steuwer/publications/blob/master/2013/PaCT-2013.pdf), in the Proceedings of the *[12th International Conference on Parallel Computing Technologies](http://ssd.sscc.ru/conf/pact2013/) (PaCT)*.
 
   [PDF](https://github.com/michel-steuwer/publications/blob/master/2013/PaCT-2013.pdf),
   [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2013/PaCT-2013.bib),
@@ -196,7 +196,7 @@
 
 ## 2012
 - *Michel Steuwer*, Sergei Gorlatch, Matthias Buß, and Stefan Breuer:
-  [**Using the SkelCL Library for High-Level GPU Programming of 2D Applications**](https://github.com/michel-steuwer/publications/blob/master/2012/ParaPhrase-2012.pdf), in the *2nd Open ParaPhrase Worjkshop 2012 @ Euro-Par*.
+  [**Using the SkelCL Library for High-Level GPU Programming of 2D Applications**](https://github.com/michel-steuwer/publications/blob/master/2012/ParaPhrase-2012.pdf), in the *2nd Open ParaPhrase Worjkshop @ Euro-Par*.
 
   [PDF](https://github.com/michel-steuwer/publications/blob/master/2012/ParaPhrase-2012.pdf),
   [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2012/ParaPhrase-2012.bib),
@@ -204,7 +204,7 @@
   [Google Scholar](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=XdXJRZEAAAAJ&citation_for_view=XdXJRZEAAAAJ:9yKSN-GCB0IC)
 
 - Philipp Kegel, *Michel Steuwer*, and Sergei Gorlatch:
-  [**dOpenCL: Towards a Uniform Programming Approach for Distributed Heterogeneous Multi-/Many-Core Systems**](https://github.com/michel-steuwer/publications/blob/master/2012/HCW-2012.pdf), in the *[21st International Heterogeneity in Computing Workshop](http://hcw.eecs.wsu.edu/previous) (HCW) 2012 @ IPDPS*.
+  [**dOpenCL: Towards a Uniform Programming Approach for Distributed Heterogeneous Multi-/Many-Core Systems**](https://github.com/michel-steuwer/publications/blob/master/2012/HCW-2012.pdf), in the *[21st International Heterogeneity in Computing Workshop](http://hcw.eecs.wsu.edu/previous) (HCW) @ IPDPS*.
 
   [PDF](https://github.com/michel-steuwer/publications/blob/master/2012/HCW-2012.pdf),
   [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2012/HCW-2012.bib),
@@ -212,7 +212,7 @@
   [Google Scholar](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=XdXJRZEAAAAJ&citation_for_view=XdXJRZEAAAAJ:u-x6o8ySG0sC)
 
 - *Michel Steuwer*, Philipp Kegel, and Sergei Gorlatch:
-  [**Towards High-Level Programming of Multi-GPU Systems Using the SkelCL Library**](https://github.com/michel-steuwer/publications/blob/master/2012/AsHES-2012.pdf), in the *[Second International Workshop on Accelerators and Hybrid Exasclae Systems](http://www.mcs.anl.gov/events/workshops/ashes/2012/) (AsHES) 2012 @ IPDPS*.
+  [**Towards High-Level Programming of Multi-GPU Systems Using the SkelCL Library**](https://github.com/michel-steuwer/publications/blob/master/2012/AsHES-2012.pdf), in the *[Second International Workshop on Accelerators and Hybrid Exasclae Systems](http://www.mcs.anl.gov/events/workshops/ashes/2012/) (AsHES) @ IPDPS*.
 
   [PDF](https://github.com/michel-steuwer/publications/blob/master/2012/AsHES-2012.pdf),
   [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2012/AsHES-2012.bib),
@@ -220,7 +220,7 @@
   [Google Scholar](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=XdXJRZEAAAAJ&citation_for_view=XdXJRZEAAAAJ:d1gkVwhDpl0C)
 
 - *Michel Steuwer*, Philipp Kegel, and Seregi Gorlatch:
-  [**A High-Level Programming Approach for Distributed Systems with Accelerators**](http://dx.doi.org/10.3233/978-1-61499-125-0-430), in *Proceedings of the [11th New Trends in Software Methodologies, Tools and Techniques](http://www.somet.soft.iwate-pu.ac.jp/somet_12/) (SoMeT) 2012*.
+  [**A High-Level Programming Approach for Distributed Systems with Accelerators**](http://dx.doi.org/10.3233/978-1-61499-125-0-430), in *Proceedings of the [11th New Trends in Software Methodologies, Tools and Techniques](http://www.somet.soft.iwate-pu.ac.jp/somet_12/) (SoMeT)*.
 
   [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2012/SoMET-2012.bib),
   [IOS Press](http://dx.doi.org/10.3233/978-1-61499-125-0-430),
@@ -229,7 +229,7 @@
 ## 2011
 
 - *Michel Steuwer*, Philipp Kegel, and Sergei Gorlatch:
-  [**SkelCL - A Portable Skeleton Library for High-Level GPU Programming**](https://github.com/michel-steuwer/publications/blob/master/2011/HIPS-2011.pdf), in the *[16th International Workshop on High-Level Parallel Programming Models and Supportive Environments](http://htor.inf.ethz.ch/hips2011/) (HIPS) 2011 @ IPDPS*.
+  [**SkelCL - A Portable Skeleton Library for High-Level GPU Programming**](https://github.com/michel-steuwer/publications/blob/master/2011/HIPS-2011.pdf), in the *[16th International Workshop on High-Level Parallel Programming Models and Supportive Environments](http://htor.inf.ethz.ch/hips2011/) (HIPS) @ IPDPS*.
 
   [PDF](https://github.com/michel-steuwer/publications/blob/master/2011/HIPS-2011.pdf),
   [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2011/HIPS-2011.bib),
