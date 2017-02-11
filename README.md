@@ -5,13 +5,13 @@
 - *Michel Steuwer*, Toomas Remmelg, and Christophe Dubach:
   [**Lift: A Functional Data-Parallel IR for High-Performance GPU Code Generation**](https://github.com/michel-steuwer/publications/blob/master/2017/CGO-2017.pdf), accepted for publication in the *Proceedings of the [2017 International Symposium on Code Generation and Optimization](http://www.cgo.org) (CGO)*.
 
-  [PDF (accepted version)](https://github.com/michel-steuwer/publications/blob/master/2017/CGO-2017.pdf),
+  [PDF](https://github.com/michel-steuwer/publications/blob/master/2017/CGO-2017.pdf),
   [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2017/CGO-2017.bib)
 
 - Michael Haidl, *Michel Steuwer*, Hendrik Dirks, Tim Hummernbrum, Sergei Gorlatch:
   [**Towards Composable GPU Programming: Programming GPUs with Eager Actions and Lazy Views**](https://github.com/michel-steuwer/publications/blob/master/2017/PMAM-2017.pdf), accepted for publication in the *Proceedings of the [2017 International Workshop on Programming Models and Applications for Multicores and Manycores](http://www.cs.otago.ac.nz/pmam2017/) (PMAM) @ PPoPP*.
 
-  [PDF (accepted version)](https://github.com/michel-steuwer/publications/blob/master/2017/PMAM-2017.pdf),
+  [PDF](https://github.com/michel-steuwer/publications/blob/master/2017/PMAM-2017.pdf),
   [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2017/PMAM-2017.bib)
 
 
