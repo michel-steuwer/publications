@@ -9,7 +9,7 @@
   [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2017/VEE-2017.bib)
 
 - Juan Fumero, *Michel Steuwer*, Lukas Stadler, and Christophe Dubach:
-  [**OpenCL JIT Compilation for Dynamic Programming Languages**](https://github.com/michel-steuwer/publications/blob/master/2017/MoreVMs-2017.pdf), in the *Proceedings of the [2017 Workshop on Modern Language Runtimes, Ecosystems, and VMs](http://conf.researchr.org/home/vee-2017) (MoreVMs) @ &ltProgramming&gt*.
+  [**OpenCL JIT Compilation for Dynamic Programming Languages**](https://github.com/michel-steuwer/publications/blob/master/2017/MoreVMs-2017.pdf), in the *Proceedings of the [2017 Workshop on Modern Language Runtimes, Ecosystems, and VMs](http://conf.researchr.org/home/vee-2017) (MoreVMs) @ `<Programming>`*.
 
   [PDF](https://github.com/michel-steuwer/publications/blob/master/2017/MoreVMs-2017.pdf),
   [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2017/MoreVMs-2017.bib)
