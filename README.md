@@ -2,6 +2,12 @@
 
 ## 2017
 
+- Juan Fumero, *Michel Steuwer*, Lukas Stadler, and Christophe Dubach:
+  [**Just-In-Time GPU Compilation for Interpreted Languages with Partial Evaluation**](https://github.com/michel-steuwer/publications/blob/master/2017/VEE-2017.pdf), in the *Proceedings of the [2017 International Conference on Virtual Execution Environments](http://conf.researchr.org/home/vee-2017) (VEE)*.
+
+  [PDF](https://github.com/michel-steuwer/publications/blob/master/2017/VEE-2017.pdf),
+  [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2017/VEE-2017.bib)
+
 - *Michel Steuwer*, Toomas Remmelg, and Christophe Dubach:
   [**Lift: A Functional Data-Parallel IR for High-Performance GPU Code Generation**](https://github.com/michel-steuwer/publications/blob/master/2017/CGO-2017.pdf), in the *Proceedings of the [2017 International Symposium on Code Generation and Optimization](http://www.cgo.org) (CGO)*.
 
