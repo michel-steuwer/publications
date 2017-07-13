@@ -2,6 +2,12 @@
 
 ## 2017
 
+- Bastian Hagedorn, *Michel Steuwer*, and Sergei Gorlatch:
+  [**A Transformation-Based Approach to Developing High-Performance GPU Programs**](https://github.com/michel-steuwer/publications/blob/master/2017/PSI-2017.pdf), in the *[Ershov Informatics Conference](http://psi.nsc.ru/psi17/index).*
+
+  [PDF](https://github.com/michel-steuwer/publications/blob/master/2017/PSI-2017.pdf),
+  [BibTeX](https://github.com/michel-steuwer/publications/blob/master/2017/PSI-2017.bib)
+
 - Juan Fumero, *Michel Steuwer*, Lukas Stadler, and Christophe Dubach:
   [**Just-In-Time GPU Compilation for Interpreted Languages with Partial Evaluation**](https://github.com/michel-steuwer/publications/blob/master/2017/VEE-2017.pdf), in the *Proceedings of the [2017 International Conference on Virtual Execution Environments](http://conf.researchr.org/home/vee-2017) (VEE)*.
 
